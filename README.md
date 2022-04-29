@@ -24,4 +24,4 @@ And for running the game, write in the terminal this:
 py main.py
 ```
 
-<img href="snaked.png" alt="snake" />
+<img src="snaked.png" alt="snake" />
