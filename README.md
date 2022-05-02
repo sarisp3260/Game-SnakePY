@@ -16,7 +16,7 @@ https://www.python.org/downloads/
 
 clone the repository
 ```
-git clone https://github.com/diegoabt18/snake.git
+https://github.com/sarisp3260/Game-SnakePY
 ```
 
 And for running the game, write in the terminal this:
